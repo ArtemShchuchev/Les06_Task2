@@ -79,7 +79,7 @@ Operand oper()
 // и снова попросит ввести данные
 int userInput(const std::string& userText)
 {
-    double uData = 0;
+    int uData = 0;
     bool err = true;
 
     do
